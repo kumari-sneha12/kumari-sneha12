@@ -1,6 +1,7 @@
 Hello,I m Sneha Kumari.
 <h1 align="center">Hi 👋, I'm SNEHA KUMARI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumari-sneha12&label=Profile%20views&color=0e75b6&style=flat" alt="kumari-sneha12" /> </p>
 
