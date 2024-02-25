@@ -1,4 +1,4 @@
-Hello,I m Sneha Kumari.
+
 <h1 align="center">Hi 👋, I'm SNEHA KUMARI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif"/>
