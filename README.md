@@ -1,8 +1,14 @@
 ![image](https://github.com/kumari-sneha12/kumari-sneha12/assets/144013280/fb91bdd4-ee5f-4d19-a114-b9462a055759)
 
 <h1 align="center">Hi 👋, I'm SNEHA KUMARI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate web developer from India</h3>
 <img src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif" height="300" width="400" />
+<H1>ABOUT ME</H1>
+<P>
+ Pursuing BCA from Vinoba Bhave University, Hazaribag and aiming to become a top web or frontend developer is an exciting goal. To achieve this, you can focus on gaining a strong foundation in programming languages like HTML, CSS, and JavaScript, along with learning popular frameworks and libraries such as React, Angular, or Vue.js. Building projects and participating in coding competitions or hackathons can also help you enhance your skills and showcase your talent. Keep learning, stay curious, and you'll surely reach your goal!</P>
+<H1>MY INTEREST</H1>
+<P>
+I m deeply passionate about coding and has a voracious appetite for learning new things. I find joy in unraveling complex problems, writing elegant code, and building innovative solutions. For ME, coding is not just a skill but a mindset—a way to continuously challenge herself and grow. She actively seeks out new technologies, frameworks, and languages, always eager to expand her knowledge and stay ahead of the curve. MY curiosity and dedication to learning make her a standout in the world of programming, driving her towards her goal of becoming a top web or frontend developer</P>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumari-sneha12&label=Profile%20views&color=0e75b6&style=flat" alt="kumari-sneha12" /> </p>
 
