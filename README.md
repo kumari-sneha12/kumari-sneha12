@@ -1,3 +1,4 @@
+![image](https://github.com/kumari-sneha12/kumari-sneha12/assets/144013280/fb91bdd4-ee5f-4d19-a114-b9462a055759)
 
 <h1 align="center">Hi 👋, I'm SNEHA KUMARI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
